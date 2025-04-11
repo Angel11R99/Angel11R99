@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola! 👋 Soy Angel Armando</h1>
+<h1 align="center">¡Hola! 👋 Soy Angel Rodriguez</h1>
 
-<p align="center">Desarrollador apasionado por el aprendizaje constante y la creación de soluciones prácticas con tecnología.</p>
+<p align="center">Desarrollador apasionado por el aprendizaje constante y la creación de software, paginas web🌐.</p>
 
 ---
 
