@@ -10,13 +10,13 @@
   `C++`, `HTML`, `CSS`, `JavaScript`, `Python`, `SQL`
 
 - ⚙️ **Frameworks & Herramientas:**  
-  `Django`, `Git`, `GitHub`, `VS Code`
+  `Django`, `Git`, `GitHub`, `VS Code`, `Astro`, `Bootstrap`
 
 ---
 
 ### 📂 Control de Versiones
 
-Me encanta trabajar con **Git y GitHub** para mantener mi código bien estructurado, documentado y colaborativo. Utilizo ramas, pull requests y commits detallados como parte esencial de mis proyectos.
+Trabajos de repositorios, control de versiones, pull and request, ramas y mas.
 
 ---
 
