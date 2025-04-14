@@ -29,4 +29,4 @@ Trabajos de repositorios, control de versiones, pull and request, ramas y mas.
 ### ⌚ Horario laboral
 ![Lunes a Jueves](https://img.shields.io/badge/Lun%20a%20Jue-9%20AM%20a%206%20PM-blue)
 ![Viernes](https://img.shields.io/badge/Viernes-9%20AM%20a%205%20PM-green)
-![Zona Horaria](https://img.shields.io/badge/UTC--5-Colombia%20%2F%20Perú%20%2F%20CDMX-lightgrey)
+![Zona Horaria](https://img.shields.io/badge/UTC--4-Rep%C3%BAblica%20Dominicana-lightgrey)
