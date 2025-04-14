@@ -27,5 +27,5 @@ Trabajos de repositorios, control de versiones, pull and request, ramas y mas.
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel11R99&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angel11R99&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
