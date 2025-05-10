@@ -47,8 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angel11R99&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel11R99&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
 ---
