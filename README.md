@@ -14,7 +14,7 @@
   `C++`, `HTML`, `CSS`, `JavaScript`, `Python`, `SQL`, `PHP`
 
 - ⚙️ **Frameworks & Herramientas:**  
-  `Django`, `Git`, `GitHub`, `VS Code`, `Astro`, `Bootstrap`
+  `Django`, `Git`, `GitHub`, `VS Code`, `Astro`, `Bootstrap`, `Tailwind`
 
 ---
 
