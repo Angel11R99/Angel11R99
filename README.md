@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola! 👋 Soy Angel Rodriguez</h1>
-
-<p align="center">Desarrollador apasionado por el aprendizaje constante y la creación de software, páginas web 🌐.</p>
+<p align="center">
+  <img src="https://github.com/Angel11R99/Angel11R99/blob/main/Banner.png" width="500" alt="Angel Rodriguez Banner" />
+</p>
 
 ---
 
