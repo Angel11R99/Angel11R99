@@ -2,11 +2,16 @@
   <img src="https://github.com/Angel11R99/Angel11R99/blob/main/Banner.png" width="500" alt="Angel Rodriguez Banner" />
 </p>
 
+<h1 align="center">👋 Hola, soy Angel</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Angel11R99&style=flat-square&color=blue" alt="profile views" />
+</p>
+
 ---
 
 ## ⌚ Horario laboral
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Lun%20a%20Jue-9%20AM%20a%206%20PM-blue" />
   <img src="https://img.shields.io/badge/Viernes-9%20AM%20a%205%20PM-blueviolet" />
   <img src="https://img.shields.io/badge/UTC--4-Rep%C3%BAblica%20Dominicana-lightgrey" />
@@ -44,17 +49,24 @@
 ---
 
 ## 📈 Estadísticas de GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angel11R99&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel11R99&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
 
-## ✨ Extras (opcional)
+## 📬 Contacto
+<p align="center">
+  <a href="mailto:angelrodriguez11r99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## ✨ Extras
 - 📌 Actualmente aprendiendo: `React`, `Laravel`, `Tailwind`
 - 🌱 Interesado en desarrollo mobile con `Flutter` o `Kotlin`
-- 📬 Contacto: <angelrodriguez11r99@gmail.com>
 
 ---
