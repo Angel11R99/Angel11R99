@@ -57,11 +57,11 @@ Enfoque en flujos colaborativos limpios, revisiones efectivas y despliegues estr
 ---
 
 ## Intereses
-- Desarrollo **backend** con **Laravel** y **Django**  
-- Creación de **interfaces modernas** con **React** y **TailwindCSS**  
+- Desarrollo **backend** con **Django**  
+- Creación de **interfaces modernas** con **React**  
 - Desarrollo **mobile** con **Flutter** y **Kotlin**  
 - Enfoque en **arquitecturas escalables**, **buenas prácticas** y **automatización**
 
 ---
 
-<p align="center"><i>“La mejor manera de predecir el futuro es crearlo.”</i></p>
+<p align="center"><i>“the winter is coming.”</i></p>
