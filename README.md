@@ -24,7 +24,7 @@
 
 ## Frameworks y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,django,bootstrap,react,tailwind,astro,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,react,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -35,10 +35,17 @@ Enfoque en flujos colaborativos limpios, revisiones efectivas y despliegues estr
 
 ---
 
+## Metodologias
+- arquitecturas escalables.
+- buenas prácticas.
+- automatización.
+-  Modelo MVC.
+---
+
 ## Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angel11R99&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel11R99&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel11R99&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" /> -->
 </p>
 
 ---
@@ -59,8 +66,7 @@ Enfoque en flujos colaborativos limpios, revisiones efectivas y despliegues estr
 ## Intereses
 - Desarrollo **backend** con **Django**  
 - Creación de **interfaces modernas** con **React**  
-- Desarrollo **mobile** con **Flutter** y **Kotlin**  
-- Enfoque en **arquitecturas escalables**, **buenas prácticas** y **automatización**
+- Desarrollo **mobile** con **Flutter**, **Kotlin**, **React Native** 
 
 ---
 
