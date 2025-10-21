@@ -15,9 +15,16 @@
 
 ---
 
+## Lenguajes de Marcado & Presentación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,markdown,css" />
+</p>
+
+---
+
 ## Lenguajes de Programación
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,typescript,python,php,mysql" />
 </p>
 
 ---
