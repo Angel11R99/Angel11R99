@@ -37,8 +37,10 @@
 ---
 
 <h2 align="center">Control de Versiones</h2>
-Experiencia en manejo de repositorios, ramas, *pull requests*, `issues` y control de versiones con **Git** y **GitHub**.  
-Enfoque en flujos colaborativos limpios, revisiones efectivas y despliegues estructurados.
+<p align="center">
+  Experiencia en manejo de repositorios, ramas, *pull requests*, `issues` y control de versiones con **Git** y **GitHub**.  
+  Enfoque en flujos colaborativos limpios, revisiones efectivas y despliegues estructurados.
+</p>
 
 ---
 
