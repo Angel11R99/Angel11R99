@@ -51,14 +51,6 @@ Enfoque en flujos colaborativos limpios, revisiones efectivas y despliegues estr
 
 ---
 
-<h2 align="center">Estadísticas de GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel11R99&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel11R99&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" /> -->
-</p>
-
----
-
 <h2 align="center">Contacto</h2>
 <p align="center">
   <a href="mailto:angelrodriguez11r99@gmail.com" style="text-decoration:none;">
