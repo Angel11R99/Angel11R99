@@ -6,7 +6,7 @@
   <a href="mailto:angelrodriguez11r99@gmail.com">
     <img src="https://img.shields.io/badge/Email-angelrodriguez11r99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-República_Dominicana-0369A1?style=flat-square" alt="República Dominicana" />
+  <img src="https://img.shields.io/badge/Ubicacion-Republica_Dominicana-0369A1?style=flat-square" alt="República Dominicana" />
   <img src="https://img.shields.io/badge/Modalidad-Remoto-059669?style=flat-square" alt="Disponible para trabajo remoto" />
 </p>
 
@@ -109,7 +109,7 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
 
 <p align="center">
   <a href="https://github.com/Angel11R99/Mony/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Angel11R99/Mony?style=flat-square&color=0E7490&label=última%20versión" alt="Última versión de Mony" />
+    <img src="https://img.shields.io/github/v/release/Angel11R99/Mony?style=flat-square&color=0E7490&label=version" alt="Última versión de Mony" />
   </a>
   <a href="https://github.com/Angel11R99/Mony/releases/latest">
     <img src="https://img.shields.io/github/downloads/Angel11R99/Mony/total?style=flat-square&color=059669&label=descargas" alt="Descargas de Mony" />
@@ -118,7 +118,7 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
     <img src="https://img.shields.io/github/stars/Angel11R99/Mony?style=flat-square&color=EAB308&label=stars" alt="Estrellas de Mony" />
   </a>
   <a href="https://github.com/Angel11R99/Mony/commits/master">
-    <img src="https://img.shields.io/github/last-commit/Angel11R99/Mony?style=flat-square&color=2563EB&label=último%20commit" alt="Último commit de Mony" />
+    <img src="https://img.shields.io/github/last-commit/Angel11R99/Mony?style=flat-square&color=2563EB&label=last%20commit" alt="Último commit de Mony" />
   </a>
   <img src="https://img.shields.io/badge/Android-offline--first-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android offline-first" />
 </p>
@@ -138,7 +138,7 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
 
 <p align="center">
   <a href="mailto:angelrodriguez11r99@gmail.com">
-    <img src="https://img.shields.io/badge/Escríbeme-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
+    <img src="https://img.shields.io/badge/Escribeme-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
   </a>
 </p>
 
