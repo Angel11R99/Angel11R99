@@ -13,26 +13,26 @@
   <a href="mailto:angelrodriguez11r99@gmail.com">
     <img src="https://img.shields.io/badge/Email-angelrodriguez11r99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicacion-Republica_Dominicana-0369A1?style=flat-square" alt="República Dominicana" />
-  <img src="https://img.shields.io/badge/Modalidad-Remoto-059669?style=flat-square" alt="Disponible para trabajo remoto" />
+  <img src="https://img.shields.io/badge/Location-Dominican_Republic-0369A1?style=flat-square" alt="Dominican Republic" />
+  <img src="https://img.shields.io/badge/Work-Remote-059669?style=flat-square" alt="Available for remote work" />
 </p>
 
-## Sobre mí
+## About me
 
-Soy desarrollador de software **backend-first**. Construyo productos web, móviles y de escritorio de extremo a extremo: desde el dominio y el modelo de datos hasta la interfaz, las pruebas y el despliegue.
+I am a **backend-first** software developer. I build end-to-end web, mobile, and desktop products, from domain design and data modeling to user interfaces, testing, and deployment.
 
-**PHP y Laravel** son mi eje principal. También desarrollo aplicaciones con **Kotlin y Jetpack Compose**, **React Native y TypeScript**, además de soluciones de escritorio con **JavaFX**. He trabajado en plataformas de empleo e inmobiliarias, SaaS multitenant, e-commerce, finanzas personales y sistemas de gestión.
+**PHP and Laravel** are my primary focus. I also build applications with **Kotlin and Jetpack Compose**, **React Native and TypeScript**, as well as desktop solutions with **JavaFX**. I have worked on job-search and real estate platforms, multitenant SaaS, e-commerce, personal finance, and management systems.
 
-- Desarrollo productos completos, no funcionalidades aisladas.
-- Trabajo con arquitectura por capas, MVC, MVVM, Repository/DAO e inyección de dependencias.
-- Implemento autenticación, autorización, RBAC, multi-tenancy y aislamiento de datos.
-- Integro pruebas, análisis estático y automatización cuando aportan valor al producto.
-- Automatizo entregas con GitHub Actions, Docker y despliegues hacia infraestructura real.
-- Trabajo desde República Dominicana y estoy disponible para colaborar de forma remota.
+- I build complete products, not just isolated features.
+- I work with layered architecture, MVC, MVVM, Repository/DAO, and dependency injection.
+- I implement authentication, authorization, RBAC, multi-tenancy, and data isolation.
+- I incorporate testing, static analysis, and automation when they add value to the product.
+- I automate delivery with GitHub Actions, Docker, and deployments to production infrastructure.
+- I work from the Dominican Republic and am available for remote collaboration.
 
-## Stack técnico
+## Tech stack
 
-### Lenguajes
+### Languages
 
 <p>
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
@@ -84,7 +84,7 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
   </a>
 </p>
 
-### Web y aplicaciones cliente
+### Web and client applications
 
 <p>
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
@@ -116,7 +116,7 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
   </a>
 </p>
 
-### Datos y persistencia
+### Data and persistence
 
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
@@ -142,7 +142,7 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
   </a>
 </p>
 
-### Arquitectura y calidad
+### Architecture and quality
 
 <p>
   <a href="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier" target="_blank" rel="noopener noreferrer">
@@ -171,7 +171,7 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
   </a>
 </p>
 
-### Entrega y herramientas
+### Delivery and tools
 
 <p>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
@@ -197,53 +197,53 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
   </a>
 </p>
 
-## Código público
+## Public code
 
 <h3 align="center"><a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">Mony</a></h3>
 
 <p align="center">
-  <strong>Finanzas personales Android, privadas y offline-first.</strong>
+  <strong>Private, offline-first personal finance for Android.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Angel11R99/Mony/releases/latest" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/v/release/Angel11R99/Mony?style=flat-square&color=0E7490&label=version" alt="Última versión de Mony" />
+    <img src="https://img.shields.io/github/v/release/Angel11R99/Mony?style=flat-square&color=0E7490&label=version" alt="Latest Mony version" />
   </a>
   <a href="https://github.com/Angel11R99/Mony/releases/latest" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/downloads/Angel11R99/Mony/total?style=flat-square&color=059669&label=descargas" alt="Descargas de Mony" />
+    <img src="https://img.shields.io/github/downloads/Angel11R99/Mony/total?style=flat-square&color=059669&label=downloads" alt="Mony downloads" />
   </a>
   <a href="https://github.com/Angel11R99/Mony/stargazers" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/stars/Angel11R99/Mony?style=flat-square&color=EAB308&label=stars" alt="Estrellas de Mony" />
+    <img src="https://img.shields.io/github/stars/Angel11R99/Mony?style=flat-square&color=EAB308&label=stars" alt="Mony stars" />
   </a>
   <a href="https://github.com/Angel11R99/Mony/commits/master" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/last-commit/Angel11R99/Mony?style=flat-square&color=2563EB&label=last%20commit" alt="Último commit de Mony" />
+    <img src="https://img.shields.io/github/last-commit/Angel11R99/Mony?style=flat-square&color=2563EB&label=last%20commit" alt="Latest Mony commit" />
   </a>
   <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Android-offline--first-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android offline-first" />
   </a>
 </p>
 
-**Mony** es una aplicación Android de finanzas personales que funciona sin depender de internet. Incluye movimientos, presupuestos, metas, estadísticas, exportación, escaneo de códigos y tickets, además de once widgets. Está construida con Kotlin, Jetpack Compose, Room, Hilt, Coroutines y Flow.
+**Mony** is a personal finance Android application that works without an internet connection. It includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and eleven widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
 
-## En qué puedo aportar
+## How I can contribute
 
-- Diseño e implementación de backends, APIs y procesos de negocio.
-- Modelado de datos, migraciones e integración con bases SQL y NoSQL.
-- Autenticación, permisos, RBAC y arquitectura multitenant.
-- Aplicaciones Android, React Native y JavaFX conectadas a datos reales.
-- Modernización de proyectos, separación por capas y mejora de mantenibilidad.
-- Pruebas, análisis estático, CI/CD y automatización de despliegues.
+- Design and implementation of backends, APIs, and business processes.
+- Data modeling, migrations, and integration with SQL and NoSQL databases.
+- Authentication, permissions, RBAC, and multitenant architecture.
+- Android, React Native, and JavaFX applications connected to real data.
+- Project modernization, separation of concerns through layers, and maintainability improvements.
+- Testing, static analysis, CI/CD, and deployment automation.
 
-## Contacto
+## Contact
 
 <p align="center">
   <a href="mailto:angelrodriguez11r99@gmail.com">
-    <img src="https://img.shields.io/badge/Escribeme-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
+    <img src="https://img.shields.io/badge/Contact_me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Angel11R99" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=Angel11R99&style=flat-square&color=0E7490&label=visitas+al+perfil" alt="Visitas al perfil" />
+    <img src="https://komarev.com/ghpvc/?username=Angel11R99&style=flat-square&color=0E7490&label=profile+views" alt="Profile views" />
   </a>
 </p>
