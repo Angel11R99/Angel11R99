@@ -58,6 +58,7 @@ Soy desarrollador de software **backend-first**. Construyo productos web, móvil
   <img src="https://img.shields.io/badge/JavaFX-2563EB?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass%2FSCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass / SCSS" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
