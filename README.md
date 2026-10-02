@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:0F2942,100:0E7490&text=Angel%20Rodr%C3%ADguez%20Trejo&fontColor=F8FAFC&fontSize=40&fontAlignY=38&desc=Backend-first%20Software%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop&descAlignY=58&descSize=17&animation=fadeIn" alt="Angel Rodríguez Trejo — Backend-first Software Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0710,45:24112F,100:6B2D8F&text=Angel%20Rodr%C3%ADguez%20Trejo&fontColor=F8FAFC&fontSize=40&fontAlignY=38&desc=Backend-first%20Software%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop&descAlignY=58&descSize=17&animation=fadeIn" alt="Angel Rodríguez Trejo — Backend-first Software Developer" />
 </p>
 
 <p align="center">
@@ -11,12 +11,12 @@
     <img src="https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angel" />
   </a>
   <a href="https://github.com/Angel11R99/Mony">
-    <img src="https://img.shields.io/badge/Explore_Mony-0E7490?style=for-the-badge&logo=android&logoColor=white" alt="Explore Mony" />
+    <img src="https://img.shields.io/badge/Explore_Mony-7E22CE?style=for-the-badge&logo=android&logoColor=white" alt="Explore Mony" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dominican_Republic-0369A1?style=flat-square" alt="Based in the Dominican Republic" />
+  <img src="https://img.shields.io/badge/Dominican_Republic-5B21B6?style=flat-square" alt="Based in the Dominican Republic" />
   <img src="https://img.shields.io/badge/Available_for_remote_work-059669?style=flat-square" alt="Available for remote work" />
 </p>
 
@@ -244,7 +244,7 @@ I build end-to-end products, from domain design and data modeling to user interf
 
 <p align="center">
   <a href="https://github.com/Angel11R99/Mony/releases/latest" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/v/release/Angel11R99/Mony?style=flat-square&color=0E7490&label=version" alt="Latest Mony version" />
+    <img src="https://img.shields.io/github/v/release/Angel11R99/Mony?style=flat-square&color=7E22CE&label=version" alt="Latest Mony version" />
   </a>
   <a href="https://github.com/Angel11R99/Mony/releases/latest" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/downloads/Angel11R99/Mony/total?style=flat-square&color=059669&label=downloads" alt="Mony downloads" />
@@ -291,7 +291,7 @@ I build end-to-end products, from domain design and data modeling to user interf
 
 <p align="center">
   <a href="https://github.com/Angel11R99" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=Angel11R99&style=flat-square&color=0E7490&label=profile+views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Angel11R99&style=flat-square&color=7E22CE&label=profile+views" alt="Profile views" />
   </a>
 </p>
 
@@ -299,4 +299,4 @@ I build end-to-end products, from domain design and data modeling to user interf
   <sub>Designed with intent. Engineered for clarity.</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0E7490,55:0F2942,100:07111F&section=footer" alt="Decorative footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6B2D8F,55:24112F,100:0B0710&section=footer" alt="Decorative footer" />
