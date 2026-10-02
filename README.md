@@ -172,7 +172,7 @@ I build end-to-end products, from domain design and data modeling to user interf
 
 <p>
   <a href="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Layered_Architecture-0F172A?style=flat-square" alt="Layered Architecture" />
+    <img src="https://img.shields.io/badge/Layered_Architecture-047857?style=flat-square" alt="Layered Architecture" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/MVC" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MVC-1E40AF?style=flat-square" alt="MVC" />
