@@ -1,18 +1,38 @@
-# Angel Rodríguez Trejo
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:0F2942,100:0E7490&text=Angel%20Rodr%C3%ADguez%20Trejo&fontColor=F8FAFC&fontSize=40&fontAlignY=38&desc=Backend-first%20Software%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop&descAlignY=58&descSize=17&animation=fadeIn" alt="Angel Rodríguez Trejo — Backend-first Software Developer" />
+</p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:07111F,45:0F2942,100:0E7490&text=Angel%20Rodr%C3%ADguez%20Trejo&fontColor=F8FAFC&fontSize=38&fontAlignY=39&desc=Backend-first%20Software%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop&descAlignY=61&descSize=17" alt="Angel Rodríguez Trejo — Software Developer" />
+  <strong>From domain logic and data modeling to reliable products in production.</strong>
 </p>
 
 <p align="center">
   <a href="mailto:angelrodriguez11r99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-angelrodriguez11r99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angel" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Dominican_Republic-0369A1?style=flat-square" alt="Dominican Republic" />
-  <img src="https://img.shields.io/badge/Work-Remote-059669?style=flat-square" alt="Available for remote work" />
+  <a href="https://github.com/Angel11R99/Mony">
+    <img src="https://img.shields.io/badge/Explore_Mony-0E7490?style=for-the-badge&logo=android&logoColor=white" alt="Explore Mony" />
+  </a>
 </p>
 
-## About me
+<p align="center">
+  <img src="https://img.shields.io/badge/Dominican_Republic-0369A1?style=flat-square" alt="Based in the Dominican Republic" />
+  <img src="https://img.shields.io/badge/Available_for_remote_work-059669?style=flat-square" alt="Available for remote work" />
+</p>
+
+<p align="center">
+  <a href="#about">About</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="#toolkit">Toolkit</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="#selected-work">Selected work</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="#contact">Contact</a>
+</p>
+
+<a id="about"></a>
+
+## `01` — About
 
 > [!IMPORTANT]
 > Backend-first software developer specializing in PHP and Laravel, with experience delivering web, mobile, and desktop products.
@@ -28,7 +48,15 @@ I build end-to-end products, from domain design and data modeling to user interf
 - I automate delivery with GitHub Actions, Docker, and deployments to production infrastructure.
 - I work from the Dominican Republic and am available for remote collaboration.
 
-## Tech stack
+| Backend-first | Product-minded | Delivery-ready |
+| :--- | :--- | :--- |
+| APIs, domain logic, RBAC, and multi-tenancy | Web, Android, and desktop experiences | Testing, automation, containers, and CI/CD |
+
+<a id="toolkit"></a>
+
+## `02` — Engineering toolkit
+
+<p>A pragmatic stack for building, testing, and shipping maintainable products.</p>
 
 ### Languages
 
@@ -198,7 +226,15 @@ I build end-to-end products, from domain design and data modeling to user interf
   </a>
 </p>
 
-## Public code
+<a id="selected-work"></a>
+
+## `03` — Selected work
+
+<p align="center">
+  <a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">
+    <img width="112" src="https://raw.githubusercontent.com/Angel11R99/Mony/master/app/src/main/res/drawable-nodpi/personal_finance_tracker_icon.png" alt="Mony app icon" />
+  </a>
+</p>
 
 <h3 align="center"><a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">Mony</a></h3>
 
@@ -229,7 +265,7 @@ I build end-to-end products, from domain design and data modeling to user interf
 
 **Mony** includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and eleven widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
 
-## How I can contribute
+## `04` — What I bring
 
 - Design and implementation of backends, APIs, and business processes.
 - Data modeling, migrations, and integration with SQL and NoSQL databases.
@@ -238,11 +274,18 @@ I build end-to-end products, from domain design and data modeling to user interf
 - Project modernization, separation of concerns through layers, and maintainability improvements.
 - Testing, static analysis, CI/CD, and deployment automation.
 
-## Contact
+<a id="contact"></a>
+
+## `05` — Let's build something useful
+
+<p align="center">
+  <strong>Have a product challenge, an API to design, or a system to modernize?</strong><br />
+  I am available for remote collaboration.
+</p>
 
 <p align="center">
   <a href="mailto:angelrodriguez11r99@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+    <img src="https://img.shields.io/badge/Start_a_conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Angel an email" />
   </a>
 </p>
 
@@ -251,3 +294,9 @@ I build end-to-end products, from domain design and data modeling to user interf
     <img src="https://komarev.com/ghpvc/?username=Angel11R99&style=flat-square&color=0E7490&label=profile+views" alt="Profile views" />
   </a>
 </p>
+
+<p align="center">
+  <sub>Designed with intent. Engineered for clarity.</sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0E7490,55:0F2942,100:07111F&section=footer" alt="Decorative footer" />
