@@ -14,7 +14,10 @@
 
 ## About me
 
-I am a **backend-first** software developer. I build end-to-end web, mobile, and desktop products, from domain design and data modeling to user interfaces, testing, and deployment.
+> [!IMPORTANT]
+> Backend-first software developer specializing in PHP and Laravel, with experience delivering web, mobile, and desktop products.
+
+I build end-to-end products, from domain design and data modeling to user interfaces, testing, and deployment.
 
 **PHP and Laravel** are my primary focus. I also build applications with **Kotlin and Jetpack Compose**, **React Native and TypeScript**, as well as desktop solutions with **JavaFX**. I have worked on job-search and real estate platforms, multitenant SaaS, e-commerce, personal finance, and management systems.
 
@@ -221,7 +224,10 @@ I am a **backend-first** software developer. I build end-to-end web, mobile, and
   </a>
 </p>
 
-**Mony** is a personal finance Android application that works without an internet connection. It includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and eleven widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
+> [!NOTE]
+> Mony is private and offline-first: financial data remains on the Android device and the core experience works without an internet connection.
+
+**Mony** includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and eleven widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
 
 ## How I can contribute
 
