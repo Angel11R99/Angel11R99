@@ -184,6 +184,9 @@ I am a **backend-first** software developer. I build end-to-end web, mobile, and
   <a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
   </a>
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows" />
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   </a>
