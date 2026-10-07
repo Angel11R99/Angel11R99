@@ -299,4 +299,4 @@ I build end-to-end products, from domain design and data modeling to user interf
   <sub>Designed with intent. Engineered for clarity.</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6B2D8F,55:24112F,100:0B0710&section=footer" alt="Decorative footer" />
+<img width="100%" src="./assets/footer-code-rain.svg" alt="Animated code rain footer" />

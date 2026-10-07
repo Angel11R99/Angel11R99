@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
+  <title id="title">Animated code rain footer</title>
+  <desc id="desc">A dark purple footer with falling programming symbols.</desc>
+  <defs>
+    <linearGradient id="footer-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07050c"/>
+      <stop offset=".52" stop-color="#160b21"/>
+      <stop offset="1" stop-color="#321044"/>
+    </linearGradient>
+    <linearGradient id="symbol-fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="white" stop-opacity="0"/>
+      <stop offset=".3" stop-color="white"/>
+      <stop offset=".8" stop-color="white"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="rain-mask">
+      <rect width="1200" height="140" fill="url(#symbol-fade)"/>
+    </mask>
+    <g id="violet-code" fill="#a78bfa" font-family="Consolas,Courier New,monospace" font-size="12" font-weight="700">
+      <text y="0" opacity=".2">{}</text>
+      <text y="24" opacity=".45">01</text>
+      <text y="48" opacity=".9">&lt;/&gt;</text>
+      <text y="72" opacity=".25">[]</text>
+    </g>
+    <g id="cyan-code" fill="#22d3ee" font-family="Consolas,Courier New,monospace" font-size="11" font-weight="700">
+      <text y="0" opacity=".18">//</text>
+      <text y="23" opacity=".4">=&gt;</text>
+      <text y="46" opacity=".9">$</text>
+      <text y="69" opacity=".22">::</text>
+    </g>
+  </defs>
+
+  <path d="M0 27C205 3 363 48 584 28 815 7 973 1 1200 28V140H0Z" fill="url(#footer-gradient)"/>
+  <path d="M0 27C205 3 363 48 584 28 815 7 973 1 1200 28" fill="none" stroke="#8b5cf6" stroke-opacity=".25"/>
+
+  <g mask="url(#rain-mask)">
+    <g>
+      <use href="#violet-code" x="55" y="-72"/>
+      <use href="#cyan-code" x="158" y="-18"/>
+      <use href="#violet-code" x="270" y="-96"/>
+      <use href="#cyan-code" x="382" y="-42"/>
+      <use href="#violet-code" x="492" y="-118"/>
+      <use href="#cyan-code" x="602" y="-60"/>
+      <use href="#violet-code" x="714" y="-12"/>
+      <use href="#cyan-code" x="824" y="-92"/>
+      <use href="#violet-code" x="936" y="-38"/>
+      <use href="#cyan-code" x="1048" y="-112"/>
+      <use href="#violet-code" x="1150" y="-55"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 235" dur="6.5s" repeatCount="indefinite"/>
+    </g>
+    <g opacity=".62">
+      <use href="#cyan-code" x="18" y="-115"/>
+      <use href="#violet-code" x="214" y="-48"/>
+      <use href="#cyan-code" x="438" y="-125"/>
+      <use href="#violet-code" x="658" y="-70"/>
+      <use href="#cyan-code" x="882" y="-20"/>
+      <use href="#violet-code" x="1102" y="-98"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 235" dur="9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <text x="600" y="103" text-anchor="middle" fill="#d8d3e5" font-family="Consolas,Courier New,monospace" font-size="12" letter-spacing="2" opacity=".75">&lt; BUILT WITH INTENT /&gt;</text>
+</svg>
