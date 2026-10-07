@@ -77,7 +77,29 @@
       <use href="#code-column-b" x="1052" y="-60"/>
       <use href="#code-column-a" x="1112" y="-220"/>
       <use href="#code-column-b" x="1162" y="-110"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 450" dur="7s" repeatCount="indefinite"/>
+      <g transform="translate(0 -450)">
+        <use href="#code-column-a" x="36" y="-135"/>
+        <use href="#code-column-b" x="88" y="-45"/>
+        <use href="#code-column-a" x="145" y="-225"/>
+        <use href="#code-column-b" x="202" y="-95"/>
+        <use href="#code-column-a" x="258" y="-20"/>
+        <use href="#code-column-b" x="320" y="-195"/>
+        <use href="#code-column-a" x="378" y="-80"/>
+        <use href="#code-column-b" x="440" y="-250"/>
+        <use href="#code-column-a" x="500" y="-155"/>
+        <use href="#code-column-b" x="562" y="-55"/>
+        <use href="#code-column-a" x="625" y="-240"/>
+        <use href="#code-column-b" x="684" y="-120"/>
+        <use href="#code-column-a" x="748" y="-30"/>
+        <use href="#code-column-b" x="808" y="-205"/>
+        <use href="#code-column-a" x="870" y="-95"/>
+        <use href="#code-column-b" x="930" y="-265"/>
+        <use href="#code-column-a" x="992" y="-160"/>
+        <use href="#code-column-b" x="1052" y="-60"/>
+        <use href="#code-column-a" x="1112" y="-220"/>
+        <use href="#code-column-b" x="1162" y="-110"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 450" dur="7s" calcMode="linear" repeatCount="indefinite"/>
     </g>
     <g opacity=".7">
       <use href="#code-column-b" x="14" y="-220"/>
@@ -90,7 +112,19 @@
       <use href="#code-column-a" x="836" y="-45"/>
       <use href="#code-column-b" x="956" y="-240"/>
       <use href="#code-column-a" x="1076" y="-125"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 450" dur="10s" repeatCount="indefinite"/>
+      <g transform="translate(0 -450)">
+        <use href="#code-column-b" x="14" y="-220"/>
+        <use href="#code-column-a" x="116" y="-80"/>
+        <use href="#code-column-b" x="228" y="-285"/>
+        <use href="#code-column-a" x="346" y="-175"/>
+        <use href="#code-column-b" x="470" y="-60"/>
+        <use href="#code-column-a" x="590" y="-265"/>
+        <use href="#code-column-b" x="712" y="-150"/>
+        <use href="#code-column-a" x="836" y="-45"/>
+        <use href="#code-column-b" x="956" y="-240"/>
+        <use href="#code-column-a" x="1076" y="-125"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 450" dur="10s" calcMode="linear" repeatCount="indefinite"/>
     </g>
   </g>
 

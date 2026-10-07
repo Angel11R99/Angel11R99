@@ -46,7 +46,20 @@
       <use href="#violet-code" x="936" y="-38"/>
       <use href="#cyan-code" x="1048" y="-112"/>
       <use href="#violet-code" x="1150" y="-55"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 235" dur="6.5s" repeatCount="indefinite"/>
+      <g transform="translate(0 -235)">
+        <use href="#violet-code" x="55" y="-72"/>
+        <use href="#cyan-code" x="158" y="-18"/>
+        <use href="#violet-code" x="270" y="-96"/>
+        <use href="#cyan-code" x="382" y="-42"/>
+        <use href="#violet-code" x="492" y="-118"/>
+        <use href="#cyan-code" x="602" y="-60"/>
+        <use href="#violet-code" x="714" y="-12"/>
+        <use href="#cyan-code" x="824" y="-92"/>
+        <use href="#violet-code" x="936" y="-38"/>
+        <use href="#cyan-code" x="1048" y="-112"/>
+        <use href="#violet-code" x="1150" y="-55"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 235" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
     </g>
     <g opacity=".62">
       <use href="#cyan-code" x="18" y="-115"/>
@@ -55,7 +68,15 @@
       <use href="#violet-code" x="658" y="-70"/>
       <use href="#cyan-code" x="882" y="-20"/>
       <use href="#violet-code" x="1102" y="-98"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 235" dur="9s" repeatCount="indefinite"/>
+      <g transform="translate(0 -235)">
+        <use href="#cyan-code" x="18" y="-115"/>
+        <use href="#violet-code" x="214" y="-48"/>
+        <use href="#cyan-code" x="438" y="-125"/>
+        <use href="#violet-code" x="658" y="-70"/>
+        <use href="#cyan-code" x="882" y="-20"/>
+        <use href="#violet-code" x="1102" y="-98"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 235" dur="9s" calcMode="linear" repeatCount="indefinite"/>
     </g>
   </g>
 
