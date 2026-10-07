@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0710,45:24112F,100:6B2D8F&text=Angel%20Rodr%C3%ADguez%20Trejo&fontColor=F8FAFC&fontSize=40&fontAlignY=38&desc=Backend-first%20Software%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop&descAlignY=58&descSize=17&animation=fadeIn" alt="Angel Rodríguez Trejo — Backend-first Software Developer" />
+  <img width="100%" src="./assets/header-matrix.svg" alt="Angel Rodríguez Trejo — Backend-first Software Developer" />
 </p>
 
 <p align="center">

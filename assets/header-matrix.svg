@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Angel Rodríguez Trejo</title>
+  <desc id="desc">Animated pixel rain behind the name Angel Rodríguez Trejo, Backend-first Software Developer.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07050c"/>
+      <stop offset="0.52" stop-color="#160b21"/>
+      <stop offset="1" stop-color="#321044"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="48%" r="58%">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".2"/>
+      <stop offset=".55" stop-color="#7c3aed" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#07050c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="white" stop-opacity="0"/>
+      <stop offset=".2" stop-color="white"/>
+      <stop offset=".78" stop-color="white"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edge-fade">
+      <rect width="1200" height="300" fill="url(#fade)"/>
+    </mask>
+    <filter id="soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#a78bfa" stroke-opacity=".045"/>
+    </pattern>
+
+    <g id="pixel-column-a" fill="#8b5cf6">
+      <rect y="0" width="5" height="5" rx="1" opacity=".16"/>
+      <rect y="18" width="5" height="10" rx="1" opacity=".28"/>
+      <rect y="42" width="5" height="5" rx="1" opacity=".5"/>
+      <rect y="60" width="5" height="14" rx="1" opacity=".85"/>
+      <rect y="88" width="5" height="5" rx="1" opacity=".35"/>
+      <rect y="107" width="5" height="8" rx="1" opacity=".18"/>
+    </g>
+    <g id="pixel-column-b" fill="#22d3ee">
+      <rect y="0" width="4" height="8" rx="1" opacity=".12"/>
+      <rect y="22" width="4" height="4" rx="1" opacity=".25"/>
+      <rect y="40" width="4" height="12" rx="1" opacity=".62"/>
+      <rect y="67" width="4" height="5" rx="1" opacity=".95"/>
+      <rect y="86" width="4" height="4" rx="1" opacity=".3"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#background)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <g mask="url(#edge-fade)">
+    <g>
+      <use href="#pixel-column-a" x="42" y="-120"/>
+      <use href="#pixel-column-b" x="91" y="-35"/>
+      <use href="#pixel-column-a" x="147" y="-210"/>
+      <use href="#pixel-column-b" x="205" y="-90"/>
+      <use href="#pixel-column-a" x="263" y="-15"/>
+      <use href="#pixel-column-b" x="324" y="-180"/>
+      <use href="#pixel-column-a" x="382" y="-75"/>
+      <use href="#pixel-column-b" x="443" y="-235"/>
+      <use href="#pixel-column-a" x="504" y="-145"/>
+      <use href="#pixel-column-b" x="566" y="-50"/>
+      <use href="#pixel-column-a" x="628" y="-225"/>
+      <use href="#pixel-column-b" x="687" y="-115"/>
+      <use href="#pixel-column-a" x="751" y="-25"/>
+      <use href="#pixel-column-b" x="811" y="-195"/>
+      <use href="#pixel-column-a" x="872" y="-90"/>
+      <use href="#pixel-column-b" x="932" y="-250"/>
+      <use href="#pixel-column-a" x="994" y="-150"/>
+      <use href="#pixel-column-b" x="1055" y="-55"/>
+      <use href="#pixel-column-a" x="1116" y="-205"/>
+      <use href="#pixel-column-b" x="1165" y="-105"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 420" dur="7s" repeatCount="indefinite"/>
+    </g>
+    <g opacity=".7">
+      <use href="#pixel-column-b" x="16" y="-210"/>
+      <use href="#pixel-column-a" x="120" y="-75"/>
+      <use href="#pixel-column-b" x="232" y="-270"/>
+      <use href="#pixel-column-a" x="350" y="-165"/>
+      <use href="#pixel-column-b" x="474" y="-55"/>
+      <use href="#pixel-column-a" x="594" y="-250"/>
+      <use href="#pixel-column-b" x="716" y="-140"/>
+      <use href="#pixel-column-a" x="840" y="-40"/>
+      <use href="#pixel-column-b" x="960" y="-225"/>
+      <use href="#pixel-column-a" x="1080" y="-115"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 420" dur="10s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <rect x="173" y="72" width="854" height="156" rx="18" fill="#09070e" fill-opacity=".62" stroke="#a78bfa" stroke-opacity=".16"/>
+  <path d="M218 91h42M940 209h42" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity=".8">
+    <animate attributeName="opacity" values=".25;.9;.25" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+
+  <g text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="600" y="146" fill="#f8fafc" font-size="50" font-weight="700" letter-spacing="-.8">Angel Rodríguez Trejo</text>
+    <text x="600" y="188" fill="#d8d3e5" font-size="18" font-weight="600" letter-spacing="1.2">BACKEND-FIRST SOFTWARE DEVELOPER  •  WEB  •  MOBILE  •  DESKTOP</text>
+  </g>
+
+  <g fill="#22d3ee" filter="url(#soft-glow)">
+    <rect x="209" y="87" width="4" height="4" rx="1">
+      <animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="987" y="205" width="4" height="4" rx="1">
+      <animate attributeName="opacity" values="1;.2;1" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M0 276C205 253 356 299 582 279c221-20 373-30 618 0v21H0z" fill="#0b0910" fill-opacity=".8"/>
+</svg>
