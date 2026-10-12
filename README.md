@@ -63,7 +63,7 @@ I design and build the systems, services, and data foundations behind reliable d
 
 ## `02` — Engineering toolkit
 
-<p>A pragmatic stack for building, testing, and shipping maintainable products.</p>
+<p>A pragmatic toolkit for designing, building, testing, and shipping maintainable products.</p>
 
 ### Languages
 
@@ -94,20 +94,11 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
 </p>
 
-### Systems and services
+### Backend and APIs
 
 <p>
   <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  </a>
-  <a href="https://livewire.laravel.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
-  </a>
-  <a href="https://getcomposer.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
-  </a>
-  <a href="https://twig.symfony.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twig-BACF29?style=flat-square&logo=twig&logoColor=111827" alt="Twig" />
   </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
@@ -117,26 +108,23 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
 </p>
 
-### Web and client applications
+### Web development
 
 <p>
+  <a href="https://livewire.laravel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+  </a>
+  <a href="https://twig.symfony.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twig-BACF29?style=flat-square&logo=twig&logoColor=111827" alt="Twig" />
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Fetch_API_%2F_AJAX-0F766E?style=flat-square&logo=javascript&logoColor=white" alt="Fetch API and AJAX" />
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-  </a>
-  <a href="https://developer.android.com/compose" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  </a>
-  <a href="https://openjfx.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JavaFX-2563EB?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -152,6 +140,20 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+</p>
+
+### Mobile and desktop
+
+<p>
+  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  </a>
+  <a href="https://developer.android.com/compose" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  </a>
+  <a href="https://openjfx.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaFX-2563EB?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" />
   </a>
 </p>
 
@@ -189,7 +191,7 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
 </p>
 
-### Architecture and quality
+### Architecture and patterns
 
 <p>
   <a href="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier" target="_blank" rel="noopener noreferrer">
@@ -204,6 +206,11 @@ I design and build the systems, services, and data foundations behind reliable d
   <a href="https://developer.android.com/training/data-storage/room/accessing-data" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Repository_%26_DAO-6D28D9?style=flat-square" alt="Repository and DAO" />
   </a>
+</p>
+
+### Testing and code quality
+
+<p>
   <a href="https://phpunit.de/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
   </a>
@@ -218,17 +225,11 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
 </p>
 
-### Delivery and tools
+### DevOps and platforms
 
 <p>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -238,6 +239,20 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
   <a href="https://www.microsoft.com/windows/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows" />
+  </a>
+</p>
+
+### Development tools
+
+<p>
+  <a href="https://getcomposer.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
