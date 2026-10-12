@@ -25,8 +25,6 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#toolkit">Toolkit</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#design">Design</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#selected-work">Selected work</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#contact">Contact</a>
@@ -239,13 +237,6 @@ I design and build the systems, services, and data foundations behind reliable d
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   </a>
-</p>
-
-<a id="design"></a>
-
-## `03` — Design tool
-
-<p>
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   </a>
@@ -253,7 +244,7 @@ I design and build the systems, services, and data foundations behind reliable d
 
 <a id="selected-work"></a>
 
-## `04` — Selected work
+## `03` — Selected work
 
 <p align="center">
   <a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">
@@ -290,7 +281,7 @@ I design and build the systems, services, and data foundations behind reliable d
 
 **Mony** includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and eleven widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
 
-## `05` — What I bring
+## `04` — What I bring
 
 - Design and implementation of services, APIs, integrations, and business processes.
 - Data modeling, migrations, and integration with SQL and NoSQL databases.
@@ -301,7 +292,7 @@ I design and build the systems, services, and data foundations behind reliable d
 
 <a id="contact"></a>
 
-## `06` — Let's build something useful
+## `05` — Let's build something useful
 
 <p align="center">
   <strong>Have a product challenge, an API to design, or a system to modernize?</strong><br />
