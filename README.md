@@ -155,6 +155,14 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
 </p>
 
+### Design and prototyping
+
+<p>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+</p>
+
 ### Data and persistence
 
 <p>
@@ -236,9 +244,6 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   </a>
 </p>
 
