@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/header-matrix.svg" alt="Angel Rodríguez Trejo — Backend-first Software Developer" />
+  <img width="100%" src="./assets/header-matrix.svg" alt="Angel Rodríguez Trejo — Software Engineer, Systems, APIs and Platforms" />
 </p>
 
 <p align="center">
@@ -25,6 +25,8 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#toolkit">Toolkit</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="#design">Design</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#selected-work">Selected work</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#contact">Contact</a>
@@ -35,11 +37,18 @@
 ## `01` — About
 
 > [!IMPORTANT]
-> Backend-first software developer specializing in PHP and Laravel, with experience delivering web, mobile, and desktop products.
+> **Software Engineer — Systems, APIs & Platforms**
 
-I build end-to-end products, from domain design and data modeling to user interfaces, testing, and deployment.
+I design and build the systems, services, and data foundations behind reliable digital products. My work spans the complete product lifecycle, from domain modeling and API design to interfaces, testing, and deployment.
 
-**PHP and Laravel** are my primary focus. I also build applications with **Kotlin and Jetpack Compose**, **React Native and TypeScript**, as well as desktop solutions with **JavaFX**. I have worked on job-search and real estate platforms, multitenant SaaS, e-commerce, personal finance, and management systems.
+| Profile layer | Focus |
+| :--- | :--- |
+| **Discipline** | Software engineering |
+| **Problems I solve** | Systems, APIs, integrations, data, and product platforms |
+| **Capabilities** | Architecture, security, performance, maintainability, and delivery |
+| **Core tools** | PHP, Laravel, SQL, Kotlin, TypeScript, Docker, and GitHub Actions |
+
+**PHP and Laravel** are core tools in my stack, not the boundary of what I build. I also create applications with **Kotlin and Jetpack Compose**, **React Native and TypeScript**, and desktop solutions with **JavaFX**. I have worked on job-search and real estate platforms, multitenant SaaS, e-commerce, personal finance, and management systems.
 
 - I build complete products, not just isolated features.
 - I work with layered architecture, MVC, MVVM, Repository/DAO, and dependency injection.
@@ -48,9 +57,9 @@ I build end-to-end products, from domain design and data modeling to user interf
 - I automate delivery with GitHub Actions, Docker, and deployments to production infrastructure.
 - I work from the Dominican Republic and am available for remote collaboration.
 
-| Backend-first | Product-minded | Delivery-ready |
+| Systems & APIs | Product-minded | Delivery-ready |
 | :--- | :--- | :--- |
-| APIs, domain logic, RBAC, and multi-tenancy | Web, Android, and desktop experiences | Testing, automation, containers, and CI/CD |
+| Domain logic, integrations, RBAC, and multi-tenancy | Web, Android, and desktop experiences | Testing, automation, containers, and CI/CD |
 
 <a id="toolkit"></a>
 
@@ -87,7 +96,7 @@ I build end-to-end products, from domain design and data modeling to user interf
   </a>
 </p>
 
-### Backend
+### Systems and services
 
 <p>
   <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
@@ -118,6 +127,12 @@ I build end-to-end products, from domain design and data modeling to user interf
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Fetch_API_%2F_AJAX-0F766E?style=flat-square&logo=javascript&logoColor=white" alt="Fetch API and AJAX" />
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
   </a>
   <a href="https://developer.android.com/compose" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
@@ -226,9 +241,19 @@ I build end-to-end products, from domain design and data modeling to user interf
   </a>
 </p>
 
+<a id="design"></a>
+
+## `03` — Design tool
+
+<p>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+</p>
+
 <a id="selected-work"></a>
 
-## `03` — Selected work
+## `04` — Selected work
 
 <p align="center">
   <a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">
@@ -265,9 +290,9 @@ I build end-to-end products, from domain design and data modeling to user interf
 
 **Mony** includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and eleven widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
 
-## `04` — What I bring
+## `05` — What I bring
 
-- Design and implementation of backends, APIs, and business processes.
+- Design and implementation of services, APIs, integrations, and business processes.
 - Data modeling, migrations, and integration with SQL and NoSQL databases.
 - Authentication, permissions, RBAC, and multitenant architecture.
 - Android, React Native, and JavaFX applications connected to real data.
@@ -276,7 +301,7 @@ I build end-to-end products, from domain design and data modeling to user interf
 
 <a id="contact"></a>
 
-## `05` — Let's build something useful
+## `06` — Let's build something useful
 
 <p align="center">
   <strong>Have a product challenge, an API to design, or a system to modernize?</strong><br />
