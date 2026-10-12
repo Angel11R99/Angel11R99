@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="mailto:angelrodriguez11r99@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angel" />
+    <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Angel" />
   </a>
-  <a href="https://github.com/Angel11R99/Mony">
+  <a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Explore_Mony-7E22CE?style=for-the-badge&logo=android&logoColor=white" alt="Explore Mony" />
   </a>
 </p>
@@ -34,30 +34,15 @@
 
 ## `01` — About
 
-> [!IMPORTANT]
-> **Software Engineer — Systems, APIs & Platforms**
+### Software Engineer — Systems, APIs & Platforms
 
-I design and build the systems, services, and data foundations behind reliable digital products. My work spans the complete product lifecycle, from domain modeling and API design to interfaces, testing, and deployment.
+I design and deliver reliable software products across backend, web, mobile, and desktop environments. My work covers the complete engineering lifecycle: domain modeling, API design, data architecture, application development, testing, automation, and production delivery.
 
-| Profile layer | Focus |
-| :--- | :--- |
-| **Discipline** | Software engineering |
-| **Problems I solve** | Systems, APIs, integrations, data, and product platforms |
-| **Capabilities** | Architecture, security, performance, maintainability, and delivery |
-| **Core tools** | PHP, Laravel, SQL, Kotlin, TypeScript, Docker, and GitHub Actions |
+**Core stack:** PHP, Laravel, SQL, Kotlin, TypeScript, Docker, and GitHub Actions.
 
-**PHP and Laravel** are core tools in my stack, not the boundary of what I build. I also create applications with **Kotlin and Jetpack Compose**, **React Native and TypeScript**, and desktop solutions with **JavaFX**. I have worked on job-search and real estate platforms, multitenant SaaS, e-commerce, personal finance, and management systems.
+**Areas of expertise:** API and platform engineering, data modeling, authentication and authorization, multi-tenancy, application architecture, automated testing, and CI/CD.
 
-- I build complete products, not just isolated features.
-- I work with layered architecture, MVC, MVVM, Repository/DAO, and dependency injection.
-- I implement authentication, authorization, RBAC, multi-tenancy, and data isolation.
-- I incorporate testing, static analysis, and automation when they add value to the product.
-- I automate delivery with GitHub Actions, Docker, and deployments to production infrastructure.
-- I work from the Dominican Republic and am available for remote collaboration.
-
-| Systems & APIs | Product-minded | Delivery-ready |
-| :--- | :--- | :--- |
-| Domain logic, integrations, RBAC, and multi-tenancy | Web, Android, and desktop experiences | Testing, automation, containers, and CI/CD |
+PHP and Laravel are central to my work, complemented by Kotlin and Jetpack Compose for Android, React Native and TypeScript for cross-platform applications, and JavaFX for desktop solutions. My experience includes job-search and real estate platforms, multi-tenant SaaS, e-commerce, personal finance, and management systems.
 
 <a id="toolkit"></a>
 
@@ -296,19 +281,18 @@ I design and build the systems, services, and data foundations behind reliable d
   </a>
 </p>
 
-> [!NOTE]
-> Mony is private and offline-first: financial data remains on the Android device and the core experience works without an internet connection.
+**Privacy by design:** financial data remains on the Android device, and the core experience works without an internet connection.
 
-**Mony** includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and eleven widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
+**Mony** includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and 11 home-screen widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
 
-## `04` — What I bring
+## `04` — Engineering capabilities
 
-- Design and implementation of services, APIs, integrations, and business processes.
-- Data modeling, migrations, and integration with SQL and NoSQL databases.
-- Authentication, permissions, RBAC, and multitenant architecture.
-- Android, React Native, and JavaFX applications connected to real data.
-- Project modernization, separation of concerns through layers, and maintainability improvements.
-- Testing, static analysis, CI/CD, and deployment automation.
+- Design and implementation of services, APIs, integrations, and domain workflows.
+- Data modeling, schema evolution, and integration with SQL and NoSQL databases.
+- Secure authentication, authorization, RBAC, tenant isolation, and permission models.
+- Web, Android, cross-platform, and desktop applications backed by production data.
+- Modernization of existing systems through clear boundaries and maintainable architecture.
+- Automated testing, static analysis, containerization, CI/CD, and deployment workflows.
 
 <a id="contact"></a>
 
