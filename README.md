@@ -247,45 +247,7 @@ PHP and Laravel are central to my work, complemented by Kotlin and Jetpack Compo
   </a>
 </p>
 
-<a id="selected-work"></a>
-
-## `03` — Selected work
-
-<p align="center">
-  <a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">
-    <img width="112" src="https://raw.githubusercontent.com/Angel11R99/Mony/master/app/src/main/res/drawable-nodpi/personal_finance_tracker_icon.png" alt="Mony app icon" />
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">Mony</a></h3>
-
-<p align="center">
-  <strong>Private, offline-first personal finance for Android.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Angel11R99/Mony/releases/latest" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/v/release/Angel11R99/Mony?style=flat-square&color=7E22CE&label=version" alt="Latest Mony version" />
-  </a>
-  <a href="https://github.com/Angel11R99/Mony/releases/latest" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/downloads/Angel11R99/Mony/total?style=flat-square&color=059669&label=downloads" alt="Mony downloads" />
-  </a>
-  <a href="https://github.com/Angel11R99/Mony/stargazers" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/stars/Angel11R99/Mony?style=flat-square&color=EAB308&label=stars" alt="Mony stars" />
-  </a>
-  <a href="https://github.com/Angel11R99/Mony/commits/master" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/last-commit/Angel11R99/Mony?style=flat-square&color=2563EB&label=last%20commit" alt="Latest Mony commit" />
-  </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Android-offline--first-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android offline-first" />
-  </a>
-</p>
-
-**Privacy by design:** financial data remains on the Android device, and the core experience works without an internet connection.
-
-**Mony** includes transactions, budgets, goals, statistics, exports, code and receipt scanning, and 11 home-screen widgets. It is built with Kotlin, Jetpack Compose, Room, Hilt, Coroutines, and Flow.
-
-## `04` — Engineering capabilities
+## `03` — Engineering capabilities
 
 - Design and implementation of services, APIs, integrations, and domain workflows.
 - Data modeling, schema evolution, and integration with SQL and NoSQL databases.
@@ -293,6 +255,30 @@ PHP and Laravel are central to my work, complemented by Kotlin and Jetpack Compo
 - Web, Android, cross-platform, and desktop applications backed by production data.
 - Modernization of existing systems through clear boundaries and maintainable architecture.
 - Automated testing, static analysis, containerization, CI/CD, and deployment workflows.
+
+<a id="selected-work"></a>
+
+## `04` — Selected work
+
+<table>
+  <tr>
+    <td width="104" align="center" valign="middle">
+      <a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">
+        <img width="76" src="https://raw.githubusercontent.com/Angel11R99/Mony/master/app/src/main/res/drawable-nodpi/personal_finance_tracker_icon.png" alt="Mony app icon" />
+      </a>
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/Angel11R99/Mony" target="_blank" rel="noopener noreferrer">Mony</a> — Private, offline-first personal finance for Android.</strong><br />
+      Transactions, budgets, goals, statistics, exports, scanning, and 11 home-screen widgets. Financial data stays on the device.<br /><br />
+      <a href="https://github.com/Angel11R99/Mony/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/Angel11R99/Mony?style=flat-square&color=7E22CE&label=version" alt="Latest Mony version" /></a>
+      <a href="https://github.com/Angel11R99/Mony/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/downloads/Angel11R99/Mony/total?style=flat-square&color=059669&label=downloads" alt="Mony downloads" /></a>
+      <a href="https://github.com/Angel11R99/Mony/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Angel11R99/Mony?style=flat-square&color=EAB308&label=stars" alt="Mony stars" /></a>
+      <a href="https://github.com/Angel11R99/Mony/commits/master" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/last-commit/Angel11R99/Mony?style=flat-square&color=2563EB&label=last%20commit" alt="Latest Mony commit" /></a>
+    </td>
+  </tr>
+</table>
+
+<sub><strong>Built with:</strong> Kotlin · Jetpack Compose · Room · Hilt · Coroutines · Flow</sub>
 
 <a id="contact"></a>
 
